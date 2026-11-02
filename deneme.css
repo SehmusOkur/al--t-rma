@@ -1,0 +1,33 @@
+.center{
+    text-align: center;
+    li
+}
+
+.renk1{
+    color: red;
+
+}
+
+.renk2{
+    color: rgba(188, 148, 28, 0.739);
+}
+.renk3{
+    color: rgb(136, 65, 191);
+}
+.nkt{
+   list-style-type: none;
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+}
+
+.nkt2{
+    list-style-position: inside;
+}
+
+
+img{
+    width: 250px;
+    height: 300px;
+    border-radius: 50%;
+}
